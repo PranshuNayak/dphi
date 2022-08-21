@@ -1,0 +1,22 @@
+[
+  {
+    "model": "course.course",
+    "pk": 1,
+    "fields": {
+      "name": "the ultimate django course",
+      "description": "A comprehensive, highly-practical, and perfectly-structured series that teaches you everything you need to know about Django from scratch.",
+      "image": "https://swapps.com/blog/simply-django-announcements/",
+      "creator": 2
+    }
+  },
+  {
+    "model": "course.course",
+    "pk": 2,
+    "fields": {
+      "name": "the ultimate react course",
+      "description": "A comprehensive, highly-practical, and perfectly-structured series that teaches you everything you need to know about Django from scratch.",
+      "image": "https://swapps.com/blog/simply-django-announcements/",
+      "creator": 2
+    }
+  }
+]

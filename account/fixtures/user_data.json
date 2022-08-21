@@ -1,0 +1,78 @@
+[
+  {
+    "model": "account.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$YGlByNHndYFcY7buwLkFv0$B3fbBCmM1dbkHbS/vJxsSfUX2liezSom8NLRx62h0pA=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "pranshunayak",
+      "first_name": "pranshu",
+      "last_name": "nayak",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-08-20T18:12:48.576Z",
+      "email": "pranshunayak@gmail.com",
+      "type": "Student",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "account.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$VNpz2kB43XjAGK0AE5cR5E$A6ze1M5fZ44f+nB0XmnblchXlaB84StclpRMP3gLwGA=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "john",
+      "first_name": "john",
+      "last_name": "smith",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-08-20T18:13:38.779Z",
+      "email": "johnsmith@gmail.com",
+      "type": "Educator",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "account.user",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$wpIJnZMo8VW6PJfDlapqg2$DHMXyFJYeDt9okfpuX0ytQPkfMqJG4TgsYrWc9/MAgw=",
+      "last_login": "2022-08-21T11:20:13.507Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2022-08-21T11:19:56.002Z",
+      "email": "admin@gmail.com",
+      "type": "Student",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "account.user",
+    "pk": 4,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$j5lfQFCCh4VWeRMW6zGGgo$CADSPm8YMNC/vfzPlRLuHr03O0xvmlFklH78AZjrjn8=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "viratkohli",
+      "first_name": "virat",
+      "last_name": "kohli",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-08-21T11:31:37.077Z",
+      "email": "virat@gmail.com",
+      "type": "Student",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]
