@@ -1,7 +1,7 @@
 # Set up
 * Make sure you are in the root directory `dphi` which contains other folders like `account` or `course`
 * Create a virtual environment: ` python -m virtualenv .venv`
-* Activate the virtual environment: `Scripts/activate`
+* Activate the virtual environment: `./.venv/Scripts/activate`
 * Install the dependencies: `pip install -r requirements.txt`
 * Make migrations: `python manage.py makemigrations`
 * Migrate the DB: `python manage.py migrate` and `python manage.py migrate --run-syncdb`
